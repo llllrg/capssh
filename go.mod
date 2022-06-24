@@ -1,4 +1,4 @@
-module deploy
+module github.com/llllrg/capssh
 
 go 1.18
 
