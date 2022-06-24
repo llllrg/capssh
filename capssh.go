@@ -1,4 +1,4 @@
-package deploy
+package capssh
 
 import (
 	"errors"
